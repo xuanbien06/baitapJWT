@@ -1,6 +1,6 @@
 # Bài Tập Thực Hành: Xác Thực Bằng JWT (JSON Web Token)
 
-**Sinh viên thực hiện:** Lại Xuân Biển - Nguyễn Thái Hà - Tạ Gia Bảo - Vũ Tùng Dương - 
+**Sinh viên thực hiện:** Lại Xuân Biển - Nguyễn Thái Hà - Tạ Gia Bảo - Vũ Tùng Dương - Đặng Tuấn Dũng
 
 ## 🎥 Video Thuyết Minh
 [**https://drive.google.com/file/d/1ZpzhZ6rnurx0UXYUXmLW7282lF2SSufs/view?usp=drive_link**]
